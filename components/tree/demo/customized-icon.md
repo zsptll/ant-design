@@ -29,7 +29,7 @@ ReactDOM.render(
       <TreeNode icon={<Icon type="meh-o" />} title="leaf" key="0-0-0" />
       <TreeNode
         icon={({ selected }) => <Icon type={selected ? 'frown' : 'frown-o'} />}
-        title="leaf"
+        title="leaf666"
         key="0-0-1"
       />
     </TreeNode>
